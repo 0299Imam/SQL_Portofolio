@@ -5,14 +5,12 @@
 This project analyzes thyroid function data using SQL queries to derive insights on risk factors, treatment responses, and patient outcomes.
 
 ## Table of Contents
-- [Queries](#queries)
-  - [Data Aggregation and Filtering](#1-data-aggregation-and-filtering)
-  - [Risk Factor Analysis](#2-risk-factor-analysis)
-  - [Predictive Modeling](#3-predictive-modeling)
-  - [Stage and Risk Analysis](#4-stage-and-risk-analysis)
-  - [Outcome Assessment](#5-outcome-assessment)
-
-## Queries
+- [Queries]
+  - [Data Aggregation and Filtering]
+  - [Risk Factor Analysis]
+  - [Predictive Modeling]
+  - [Stage and Risk Analysis]
+  - [Outcome Assessment]
 
 ## Project Overview
 This project aims to analyze thyroid differentiation data to understand various aspects of thyroid function, risk factors, and treatment outcomes. The analysis includes data aggregation, filtering, risk factor analysis, predictive modeling, stage and risk analysis, and outcome assessment.
